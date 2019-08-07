@@ -1,1 +1,7 @@
 =========================== Định nghĩa MVC ==========================
+model : javabean, bussinesslogic
+view : jsp
+controller : servlet 
+
+
+==============================
